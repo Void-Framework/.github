@@ -53,8 +53,6 @@ We believe that developing powerful web applications shouldn't be complex. Void 
 
 ### ⚡ [void-cli](https://github.com/Void-Framework/void-cli) <!-- TODO: Replace with actual CLI repo name -->
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Void-Framework&repo=void-cli&theme=tokyonight)](https://github.com/Void-Framework/void-cli)
-
 **Tech Stack:** Kotlin • C
 **Status:** 🚧 Not Yet Started  | ⭐ 0+ Stars | 🍴 0+ Forks
 *The command-line interface tool for Void Framework, designed to streamline project setup, code generation, and development workflows.*
