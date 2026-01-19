@@ -43,7 +43,7 @@ We believe that developing powerful web applications shouldn't be complex. Void 
 
 ---
 
-### 🔥 [void-examples](https://github.com/Void-Framework/void-examples) <!-- TODO: Replace with actual examples repo name -->
+### 🔥 [Void-Examples](https://github.com/Void-Framework/Void-Examples) <!-- TODO: Replace with actual examples repo name -->
 
 **Tech Stack:** Kotlin • PostgreSQL • Docker
 **Status:** 🚧 Not Yet Started | ⭐ 0+ Stars | 🍴 0+ Forks
@@ -51,7 +51,7 @@ We believe that developing powerful web applications shouldn't be complex. Void 
 
 ---
 
-### ⚡ [void-cli](https://github.com/Void-Framework/void-cli) <!-- TODO: Replace with actual CLI repo name -->
+### ⚡ [Void-CLI](https://github.com/Void-Framework/Void-CLI) <!-- TODO: Replace with actual CLI repo name -->
 
 **Tech Stack:** Kotlin • C
 **Status:** 🚧 Not Yet Started  | ⭐ 0+ Stars | 🍴 0+ Forks
